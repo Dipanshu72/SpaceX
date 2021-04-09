@@ -1,9 +1,9 @@
 body {
-  background-color: #F2F2F2 !important;
+  background-color: #f5f1f1 !important;
 }
 
 .App {
-  background-color: #F2F2F2;
+  background-color: #05092c;
 }
 
 .App-loader-container {
@@ -33,9 +33,11 @@ body {
 
 .App-header {
   display: flex;
+  text-align: center !important;
+
   flex-direction: column;
   font-size: calc(22px + 2vmin);
-  color: #0A0A0A;
+  color: #76ec14;
   padding-left: 16px;
 }
 
@@ -76,6 +78,7 @@ body {
 
 .App-Developers-name {
   text-align: center !important;
+  color: yellowgreen;
 }
 
 .App-filter-button {
