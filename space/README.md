@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with SpaceX Program
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### UI And Filter Implementation
+
+Filters and Launch Items details cards having Spacex launch details fetched from API
+![spacex1](https://user-images.githubusercontent.com/53807559/114171708-4f325a00-9952-11eb-8ef4-6cdcab2cc1ed.PNG)
+
+
+After applying filter
+
+## year
+![spacexfilter year](https://user-images.githubusercontent.com/53807559/114171935-a0dae480-9952-11eb-9bba-0bb12b3dd691.PNG)
+
+##launch
+![spacextrue](https://user-images.githubusercontent.com/53807559/114172143-ea2b3400-9952-11eb-8bec-e503046df303.PNG)
+
+
+##landing
+![spacexfilterelaunch](https://user-images.githubusercontent.com/53807559/114172253-0b8c2000-9953-11eb-815f-4af13474a2b4.PNG)
